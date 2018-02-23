@@ -21,3 +21,6 @@ License along with this program. If not, see
 <http://www.gnu.org/licenses/>.
 
 For commercial use or embdded C/C++ versions, please contact mohamed.atia@carleton.ca
+
+Please use the following information for citation:
+Mohamed Atia. (2018, February 23). EmbeddedMultisensorSystems/EMS-SymINSGNSS v1.0.0 (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1183569
